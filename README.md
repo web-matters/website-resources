@@ -1,6 +1,6 @@
 # Web Matters resources
 
-Repo to store and develop a multitude of helpful resources for the Web Matters website.
+Repository to store and develop a multitude of helpful resources for the Web Matters website.
 
 These resources should provide general information on a range of topics that are relevant to the web and the people who work on it. These resources should be factual in nature. Where possible, link to authoritative and established sources. For example, a resource focusing on TUPE regulations for employees who are part of an acquisition would likely link to the [ACAS guidance](http://www.acas.org.uk/index.aspx?articleid=1655) on the subject.
 
